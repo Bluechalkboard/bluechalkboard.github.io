@@ -1,1 +1,1 @@
-# bluechalkboard.github.io
+# bluechalkboard is cool
